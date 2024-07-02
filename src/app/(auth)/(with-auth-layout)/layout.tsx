@@ -9,7 +9,7 @@ export default function AuthLayout( {
             <h2>
                 Inner layout
             </h2>
-            {children}
+            
 
         </div>
         </>
